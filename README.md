@@ -23,7 +23,9 @@ The only rule is that the sourceProject name connot containthe new project name.
 
 ## Installation
 
-copy this file to a directory in your path and make it executable with:
+Two files are included; a source file all ready chmod'ed to be executable and a source file, so take your choice. Copy one to a directory in your path.
+
+You can make the source file executable by:
 
 
     chmod +x cloneProject.sh
