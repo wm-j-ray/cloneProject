@@ -28,7 +28,7 @@ Two files are included; a source file all ready chmod'ed to be executable and a 
 You can make the source file executable by:
 
 
-    chmod +x cloneProject.sh
+    chmod +x cloneProjectSource.sh
 
 
 ## Creators
